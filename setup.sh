@@ -19,13 +19,13 @@ CYAN='\033[0;36m'
 LIGHT='\033[0;37m'
 # ==========================================
 # Link Hosting Kalian Untuk Xray
-akbarvpnnnnnn="raw.githubusercontent.com/Daudbio/script/main/xray"
+akbarvpnnnnnn="raw.githubusercontent.com/Daudbio/script/Mantap-main/xray"
 # Link Hosting Kalian Untuk Backup
-akbarvpnnnnnnnn="raw.githubusercontent.com/Daudbio/script/main/backup"
+akbarvpnnnnnnnn="raw.githubusercontent.com/Daudbio/script/Mantap-main/backup"
 # Link Hosting Kalian Untuk Websocket
-akbarvpnnnnnnnnn="raw.githubusercontent.com/Daudbio/script/main/websocket"
+akbarvpnnnnnnnnn="raw.githubusercontent.com/Daudbio/script/Mantap-main/websocket"
 # Link Hosting Kalian Untuk Ohp
-akbarvpnnnnnnnnnn="raw.githubusercontent.com/Daudbio/script/main/ohp"
+akbarvpnnnnnnnnnn="raw.githubusercontent.com/Daudbio/script/Mantap-main/ohp"
 
 # Getting
 MYIP=$(wget -qO- ipinfo.io/ip);
@@ -48,9 +48,9 @@ wget https://${akbarvpnnnnnnnnn}/edu.sh && chmod +x edu.sh && ./edu.sh
 # Ohp Server
 wget https://${akbarvpnnnnnnnnnn}/ohp.sh && chmod +x ohp.sh && ./ohp.sh
 # Install SlowDNS
-wget https://raw.githubusercontent.com/Daudbio/script/main/SLDNS/install-sldns && chmod +x install-sldns && ./install-sldns
+wget https://raw.githubusercontent.com/Daudbio/script/Mantap-main/SLDNS/install-sldns && chmod +x install-sldns && ./install-sldns
 # Informasi IP Saya dan Semua Port TCP UDP
-# wget https://raw.githubusercontent.com/Daudbio/script/main/ipsaya.sh && chmod +x ipsaya.sh
+# wget https://raw.githubusercontent.com/Daudbio/script/Mantap-main/ipsaya.sh && chmod +x ipsaya.sh
 
 
 rm -f /root/ins-xray.sh
